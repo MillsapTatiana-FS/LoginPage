@@ -85,3 +85,6 @@ body {
     transition: all 0.375s;
 }
 
+.login-form > button:hover{
+    background: #10449A;
+}
